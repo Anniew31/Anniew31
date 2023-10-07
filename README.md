@@ -1,4 +1,7 @@
 <h3 style = "background-color: skyblue;"> Hello there 👋!</h3>
+<p>Pronouns: She/Her </p>
+<br>
+<p> Current junior at Brooklyn Tech (major: software) </p>
 
 <!--
 **Anniew31/Anniew31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
