@@ -1,6 +1,5 @@
-<h3 style = "background-color: skyblue;"> Hello there 👋!</h3>
-<p>Pronouns: She/Her </p>
-<br>
+<h3> Hello there! 👋 </h3>
+<p> I'm Annie Weng (She/Her) </p>
 <p> Current junior at Brooklyn Tech (major: software) </p>
 
 <!--
