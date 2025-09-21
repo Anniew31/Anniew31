@@ -1,6 +1,6 @@
 <h3> Hello there! 👋 </h3>
 <p> I'm Annie Weng (She/Her) </p>
-<p> Current senior at Brooklyn Tech </p>
+<p> Current freshman at Cornell University </p>
 
 <!--
 **Anniew31/Anniew31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
